@@ -1,0 +1,16 @@
+*{
+    /*outline: 1px solid red;*/
+    box-sizing: content-box;
+}
+
+body{
+    background-color: rgb(75, 74, 74);
+    color: antiquewhite;
+}
+.jumbo-color{
+    background-color: rgb(83, 81, 81);
+}
+/*.form-control:focus*/
+.form-control{
+    background-color: rgb(177, 168, 168);
+}
